@@ -1,8 +1,8 @@
 - 👋 Hi, I'm @AnimanKhandelwal
-- 👀 I’m interested in AR/VR,3d modelling and software developement
-- 🌱 I’m currently learning C and Blender
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web dev and Machine learning
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on front end web development
+- 📫 How to reach me animan.khandelwal@gmail.com
 
 <!---
 Animankhandelwal/Animankhandelwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
